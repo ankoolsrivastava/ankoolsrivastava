@@ -5,37 +5,33 @@
   />
 </div>
 
-<h1 align="center">Hey 👋 What's Up?, Ankool Here!</h1>
+<h1 align="center">Hey 👋 What's Up? Ankool Here!</h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"/>
+  <!-- Core Backend & AI Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" title="Java"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" title="Spring Boot"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" title="Python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" title="PyTorch"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo" title="FastAPI"/>
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"/>
+  <!-- Databases & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" title="PostgreSQL"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" title="MongoDB"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" title="Docker"/>
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"/>
+  <!-- Tools & Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" title="React"/>
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo" title="IntelliJ IDEA"/>
 </div>
 
 ---
@@ -48,7 +44,6 @@
       alt="linkedin logo"
     />
   </a>
-
   <a href="https://www.instagram.com/ankoollllll_/" target="_blank">
     <img 
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" 
@@ -60,8 +55,14 @@
 
 ---
 
+<div align="center">
+  <h3>Architecting Scalable Backends & Intelligent AI Pipelines</h3>
+</div>
+
 <p align="left">
-I am a Computer Engineering student passionate about building scalable applications and robust backend systems. My journey is all about hands-on implementation — whether I’m diving deep into Java DSA, building full-stack web applications, or optimizing databases for real-world projects.
+I am a 3rd-year Computer Engineering student focusing on a dual-threat technical architecture: building heavy-duty enterprise systems with <b>Java & Spring Boot</b>, and engineering cutting-edge <b>Agentic AI and Machine Learning pipelines</b> using <b>Python, PyTorch, and FastAPI</b>. 
+<br><br>
+Currently deep-diving into Microservices, secure REST APIs, and training custom neural networks from scratch. Check out my pinned repositories to see my Real-Time Voice Cloning Detection pipeline and full-stack performance dashboards.
 </p>
 
 ---
@@ -85,12 +86,10 @@ I am a Computer Engineering student passionate about building scalable applicati
     media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/ankoolsrivastava/ankoolsrivastava/output/pacman-contribution-graph-dark.svg"
   />
-
   <source 
     media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/ankoolsrivastava/ankoolsrivastava/output/pacman-contribution-graph.svg"
   />
-
   <img 
     alt="pacman contribution graph" 
     src="https://raw.githubusercontent.com/ankoolsrivastava/ankoolsrivastava/output/pacman-contribution-graph.svg"
