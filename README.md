@@ -60,9 +60,9 @@
 </div>
 
 <p align="left">
-I am a 3rd-year Computer Engineering student focusing on a dual-threat technical architecture: building highly scalable enterprise backends with <b>Java & Spring Boot</b>, and engineering intelligent <b>Machine Learning and Agentic AI workflows</b> using <b>Python, PyTorch, and FastAPI</b>. 
+I am a 3rd-year Computer Engineering student driven by a dual-threat approach to software architecture. My focus is divided into two core pillars: engineering heavy-duty, scalable enterprise backends using <b>Java, Spring Boot, and Microservices</b>, and building intelligent <b>Agentic AI and Machine Learning workflows</b> using <b>Python, PyTorch, and FastAPI</b>.
 <br><br>
-I am passionate about bridging the gap between heavy-duty server architecture and modern AI capabilities. Currently, I am deep-diving into Microservices, secure RESTful APIs, and training custom neural networks from scratch. My goal is to architect resilient systems that process complex data efficiently and drive real-world impact. Feel free to explore my repositories below to see my latest open-source work!
+I am passionate about the entire engineering lifecycle—from designing secure relational database schemas and optimizing RESTful APIs, to training custom neural networks from scratch and deploying low-latency inference models. Whether it is managing data flow in a robust server environment or pushing the limits of AI-driven automation, my goal is to build resilient systems that solve complex real-world problems.
 </p>
 
 ---
